@@ -7,3 +7,9 @@
 ---
 
 ### [Introduction to P5.js](documents/Introduction_to_P5.js.pdf)
+
+---
+
+### [Type Template](documents/type_template.zip)
+
+---
