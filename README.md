@@ -13,3 +13,7 @@
 ### [Type Template](documents/type_template.zip)
 
 ---
+
+### [Type Template 3D](documents/type_template_3d.zip)
+
+---
