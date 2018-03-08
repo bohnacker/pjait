@@ -11,7 +11,7 @@
 ---
 
 ### [Type Template](documents/type_template.zip)
-(apps/test)
+[Test](apps/test)
 
 ---
 
