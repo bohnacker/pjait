@@ -72,8 +72,7 @@ Students: Patrycja Ostrowska, Nadiia Romanenko, Yustina Sokolenko, Inna Korniych
 
 ---
 
-Students: Diana Ahudøa, Adam Kin
-Filip Wyrzykowski
+Students: Diana Ahudøa, Adam Kin, Filip Wyrzykowski
 
 [Miami](miami/)
 
