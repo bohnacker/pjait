@@ -75,7 +75,7 @@ Students: Wawer, Miękisz, Przebirowska
 
 ---
 
-Student: ? 
+Students: Maciej Biernacki, Maciej Mainda, Julia Ninh Kieu Trang 
 
 [Sound Type](sound-type/sketch/)
 
