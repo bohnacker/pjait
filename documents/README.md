@@ -2,18 +2,18 @@
 
 ---
 
-### [Start package](documents/start.zip)
+### [Start package](start.zip)
 
 ---
 
-### [Introduction to P5.js](documents/Introduction_to_P5.js.pdf)
+### [Introduction to P5.js](Introduction_to_P5.js.pdf)
 
 ---
 
-### [Type Template](documents/type_template.zip)
+### [Type Template](type_template.zip)
 
 ---
 
-### [Type Template 3D](documents/type_template_3d.zip)
+### [Type Template 3D](type_template_3d.zip)
 
 ---
