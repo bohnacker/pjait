@@ -1,5 +1,7 @@
 ## Results
 
+Chrome might work best for viewing.
+
 ---
 
 Students: Anastasiia Pozhydaieva, Katsiaryna Harelik, Kyrylo Lohvyn, Vladyslav Kerpich, Nastassia Tolstsik, Daria Vasilyeva
