@@ -215,7 +215,6 @@ function sparkle(x, y, fazeoff) {
 
 
 function preload() {
-  img0 = loadImage('testface.png');
 
   soundFormats('mp3', 'ogg');
 
