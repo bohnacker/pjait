@@ -16,7 +16,6 @@ Students: Anastasiia Pozhydaieva, Katsiaryna Harelik, Kyrylo Lohvyn, Vladyslav K
 
 [3D Space Type – Final](3d-and-monster/space_final/)
 
-
 ---
 
 Student: Heba Tallah Abouhamd
@@ -25,10 +24,9 @@ Student: Heba Tallah Abouhamd
 
 [Arabic Ornaments – Generative Type Variation 2](arabic-ornament/GenerativeType/var2/)
 
-
 ---
 
-Students: Kowalska, Swiderska, Ryncarz, Lawska
+Students: Paulina Kowalska, Joanna Świderska, Zuzanna Ryncarz, Weronika Ławska
 
 [Bubbles – 1](bubbles/1/)
 
@@ -44,7 +42,6 @@ Students: Kowalska, Swiderska, Ryncarz, Lawska
 
 [Bubbles – 7](bubbles/7/)
 
-
 ---
 
 Students: Agnieszka Toczyska, Le Minh Trang, Zuzanna Mikolajczak
@@ -57,13 +54,11 @@ Students: Agnieszka Toczyska, Le Minh Trang, Zuzanna Mikolajczak
 
 [Colorful Art Deco – Mouse Pressed](colorful-art-deco/4-mouse_pressed/)
 
-
 ---
 
-Students: ?
+Students: Kinga Ostapkowicz, Maja Biskupska
 
 [Drawing Type](drawing-type/)
-
 
 ---
 
@@ -71,13 +66,11 @@ Students: Patrycja Ostrowska, Nadiia Romanenko, Yustina Sokolenko, Inna Korniych
  
 [Fake TV Font](fake-tv-font/)
 
-
 ---
 
 Students: Diana Ahudøa, Adam Kin, Filip Wyrzykowski
 
 [Miami](miami/)
-
 
 ---
 
@@ -85,10 +78,9 @@ Students: Sevara Kamilova, Daryna Chernysheva, Hanna Prokhorova, Maryna Krykotun
 
 [Philocaly](philocaly/)
 
-
 ---
 
-Students: Wawer, Miękisz, Przebirowska
+Students: Anna Wawer, Aleksandra Przebirowska, Emilia Miękisz
 
 [Pixels – 1 Alphabeth](pixels/0_alphabeth/)
 
@@ -100,23 +92,20 @@ Students: Wawer, Miękisz, Przebirowska
 
 [Pixels – 5 spread](pixels/4_spread/)
 
-
 ---
 
 Students: Maciej Biernacki, Maciej Mainda, Julia Ninh Kieu Trang 
 
 [Sound Type](sound-type/sketch/)
 
-
 ---
 
-Students: Solińska, Michalczyk, Kłos
+Students: Aleksandra Solińska, Julia Michalczyk, Magda Kłos
 
 [Stretching-lines – 1](stretching-lines/type_template/)
 
 [Stretching-lines – 2](stretching-lines/type_template_2/)
 
 [Stretching-lines – 3](stretching-lines/type_template_3/)
-
 
 ---
