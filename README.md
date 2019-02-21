@@ -15,5 +15,3 @@
 ### [Generative Design Examples](http://www.generative-gestaltung.de/2/)
 
 ---
-
-[Test](test/index.html)
