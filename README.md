@@ -1,12 +1,10 @@
 ## Files
 
-### [Start package](documents/start.zip)
+### [1 Introduction to P5.js](documents/1_Introduction_to_p5js.pdf)
 
-### [Introduction to P5.js](documents/Introduction_to_p5js.pdf)
+### [2 Generative Type Templates](documents/2_Templates.zip)
 
-### [Type Template](documents/type_template.zip)
-
-### [Type Template 3D](documents/type_template_3d.zip)
+### [3 Generative Type Examples](documents/3_Examples.zip)
 
 ---
 
